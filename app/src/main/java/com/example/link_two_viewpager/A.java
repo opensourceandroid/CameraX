@@ -6,4 +6,5 @@ package com.example.link_two_viewpager;
  * @des
  */
 public class A {
+    public static final int Mondy = 1;
 }
